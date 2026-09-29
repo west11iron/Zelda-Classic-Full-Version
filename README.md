@@ -247,4 +247,4 @@ This repository serves as the official landing page for Zelda Classic. The softw
 **Get the most recent version of Zelda Classic today!**
 
 ---
-**Last updated:** 2026-09-29 05:25:56 UTC
+**Last updated:** 2026-09-29 12:36:23 UTC
